@@ -6,9 +6,9 @@
 - [GameMaker Studio 2 ](https://www.yoyogames.com/gamemaker) - It has everything you need to take your idea from concept to finished game.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite-editor & pixel art tool
 - [Pixatool](https://kronbits.itch.io/pixatool) - You can use PixaTool to get 8bit / Pixel style images or videos
--[Construct2](https://www.scirra.com/construct2) - A powerful ground breaking HTML5 game creator designed specifically for 2D games. 
--[Godot](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
--[Bfxr](https://www.bfxr.net/) - Bfxr is an elaboration of the glorious Sfxr, the program of choice for many people looking to make sound effects for computer games.
+- [Construct2](https://www.scirra.com/construct2) - A powerful ground breaking HTML5 game creator designed specifically for 2D games. 
+- [Godot](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
+- [Bfxr](https://www.bfxr.net/) - Bfxr is an elaboration of the glorious Sfxr, the program of choice for many people looking to make sound effects for computer games.
 
 
 https://www.defold.com/
