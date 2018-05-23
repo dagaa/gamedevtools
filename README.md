@@ -11,13 +11,11 @@
 - [Bfxr](https://www.bfxr.net/) - Bfxr is an elaboration of the glorious Sfxr, the program of choice for many people looking to make sound effects for computer games.
 
 
-https://www.defold.com/
+- [Defold](https://www.defold.com/) - Defold is a professional tool for game development which lets you focus on what you do best—making games.
 
-https://studio.zerobrane.com/
-https://affinity.serif.com/en-us/
-
-https://affinity.serif.com/en-us/
-https://boscaceoil.net/
+- [ZeroBrane](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE
+ 
+- [Bosca Ceoil](https://boscaceoil.net/) - A free, easy to use tool fro creating music!
 
 -[Audacity](https://www.audacityteam.org/) - an easy-to-use, multi-track audio editor 
 
